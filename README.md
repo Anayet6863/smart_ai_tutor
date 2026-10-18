@@ -71,8 +71,7 @@ Defines `ChatbotResponse`, a Pydantic model. It validates:
 - `keywords`: non-empty list of strings
 
 ### `prompts.py`
-Stores reusable `PromptTemplate` instances. The templates accept named variables instead of hard-coding prompts inside `.invoke()`.
-
+Stores reusable `PromptTemplate` instances. 
 ### `chatbot.py`
 1. Reads the API key from the environment.
 2. Creates the `ChatGroq` model.
