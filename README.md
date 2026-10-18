@@ -88,10 +88,10 @@ Uses `st.chat_input`, `st.chat_message`, and `st.session_state` to provide a cha
 ## Application Screenshots
 
 ### Home Page
-![Home Page](assets\home_page.png)
+![Home Page](assets\homepage.png)
 
 ### Home Page
-![Home Page](assets\home_page2.png)
+![Home Page](assets\homepage2.png)
 
 ### Answer Example 1
 ![Answer Example 1](assets/Answer1.png)
